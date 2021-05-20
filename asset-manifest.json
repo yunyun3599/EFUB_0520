@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EFUB_0520/static/css/main.51b48133.chunk.css",
+    "main.js": "/EFUB_0520/static/js/main.86d3f91f.chunk.js",
+    "main.js.map": "/EFUB_0520/static/js/main.86d3f91f.chunk.js.map",
+    "runtime-main.js": "/EFUB_0520/static/js/runtime-main.2e0df15d.js",
+    "runtime-main.js.map": "/EFUB_0520/static/js/runtime-main.2e0df15d.js.map",
+    "static/js/2.d5528af3.chunk.js": "/EFUB_0520/static/js/2.d5528af3.chunk.js",
+    "static/js/2.d5528af3.chunk.js.map": "/EFUB_0520/static/js/2.d5528af3.chunk.js.map",
+    "index.html": "/EFUB_0520/index.html",
+    "static/css/main.51b48133.chunk.css.map": "/EFUB_0520/static/css/main.51b48133.chunk.css.map",
+    "static/js/2.d5528af3.chunk.js.LICENSE.txt": "/EFUB_0520/static/js/2.d5528af3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0df15d.js",
+    "static/js/2.d5528af3.chunk.js",
+    "static/css/main.51b48133.chunk.css",
+    "static/js/main.86d3f91f.chunk.js"
+  ]
+}
